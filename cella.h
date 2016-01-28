@@ -6,7 +6,7 @@
  *
  * Classe cella: contiene l'astrazione relativa alla cella
  *
- * Autore: Riccardo Monterisi www.riccardomonterisi.tk
+ * Autore: Riccardo Monterisi http://riccardomonterisi.altervista.org/
  */
 
 #ifndef CELLA_H_
