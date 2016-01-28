@@ -5,9 +5,9 @@
  *o spedisci una lettera a Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  *
  * Classe nodo: si occupa di gestire le celle in modo da supportare il funzionamento di una lista
- *      				collegata, realizzata con l'uso di puntatori (campi prec e succ della classe cella)
+ *      	collegata, realizzata con l'uso di puntatori (campi prec e succ della classe cella)
  *
- * Autore: Riccardo Monterisi www.riccardomonterisi.tk
+ * Autore: Riccardo Monterisi http://riccardomonterisi.altervista.org/
  */
 #ifndef _NODO_
 #define _NODO_
