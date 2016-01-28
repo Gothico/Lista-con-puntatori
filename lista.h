@@ -6,7 +6,7 @@
  *
  * Classe lista: si occupa di fornire l'interfaccia prevista dalle specifiche per l'uso di una lista
  *
- * Autore: Riccardo Monterisi www.riccardomonterisi.tk
+ * Autore: Riccardo Monterisi http://riccardomonterisi.altervista.org/
  */
 
 #ifndef _LISTA_
